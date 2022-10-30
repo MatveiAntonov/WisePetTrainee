@@ -12,6 +12,8 @@ builder.Services.AddDbContext<OrganizationsDbContext>(opts => {
     builder.Configuration["ConnectionStrings:OrganizationsConnection"]);
 });
 
+builder.Services.AddScoped<IOrganizationsRepository, EFOrganizationRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

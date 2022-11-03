@@ -1,0 +1,15 @@
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\bin\Debug\net6.0\Organizations.Application.deps.json
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\bin\Debug\net6.0\Organizations.Application.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\bin\Debug\net6.0\Organizations.Application.pdb
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\bin\Debug\net6.0\Organizations.Domain.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\bin\Debug\net6.0\Organizations.Domain.pdb
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.csproj.AssemblyReference.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.AssemblyInfoInputs.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.AssemblyInfo.cs
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.csproj.CoreCompileInputs.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.csproj.CopyComplete
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\refint\Organizations.Application.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\Organizations.Application.pdb
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Application\obj\Debug\net6.0\ref\Organizations.Application.dll

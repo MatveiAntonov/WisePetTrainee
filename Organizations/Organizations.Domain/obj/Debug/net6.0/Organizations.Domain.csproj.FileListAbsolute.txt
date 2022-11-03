@@ -1,0 +1,12 @@
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\bin\Debug\net6.0\Organizations.Domain.deps.json
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\bin\Debug\net6.0\Organizations.Domain.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\bin\Debug\net6.0\Organizations.Domain.pdb
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.csproj.AssemblyReference.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.AssemblyInfoInputs.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.AssemblyInfo.cs
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.csproj.CoreCompileInputs.cache
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\refint\Organizations.Domain.dll
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\Organizations.Domain.pdb
+D:\Innowise\Trainee\PetAfisha\Organizations\Organizations.Domain\obj\Debug\net6.0\ref\Organizations.Domain.dll
